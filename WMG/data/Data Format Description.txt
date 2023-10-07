@@ -1,0 +1,12 @@
+
+The naming format for the data files is as follows: WM_Instance_n_index, where n denotes the instance's scale.
+
+The information in the data files is structured as follows: edge, xstar, optimalvalue, Time.
+
+The first n*(n-1)/2 lines contain the following information: the starting point of the edge, the ending point of the edge, the weight of the edge, and whether it is matched (whether the edge is matched in the final matching).
+
+The next line contains the optimal value of the instance.
+
+The last line represent the value of run time.
+
+
