@@ -1,0 +1,14 @@
+
+The naming format for the data files is as follows: UFL_Instance_m_index, where m = n denotes the instance's scale.
+
+The information in the data files is structured as follows: c, u, f, v, ObjUFL, ObjBoundUFL, TimeUFL.
+
+The first m lines contain the values of parameter c, with each line having n columns.
+
+The next m lines contain the values of parameter u, with each line having n columns.
+
+The next line contains the values of parameter f, with m columns.
+
+The next line contains the values of parameter v, with m columns.
+
+The last three lines represent the values of ObjUFL, ObjBoundUFL, and TimeUFL, respectively.
