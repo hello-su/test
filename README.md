@@ -1,5 +1,5 @@
-# 2021.0193
-# [Stabilizing Grand Cooperation via Cost Adjustment: An Inverse Optimization Approach](https://doi.org/10.1287/ijoc.2021.0193)
+# 2022.0268
+# [Stabilizing Grand Cooperation via Cost Adjustment: An Inverse Optimization Approach](https://doi.org/10.1287/ijoc.2022.0268)
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the MIT License.
 
 ## Abstract
@@ -14,11 +14,11 @@ We consider two specific test instances of CIOP, called WMG and UFL, which can b
   
 
 ## Paper Entry
-Lindong Liu, Xiangtong Qi, Zhou Xu. ["Stabilizing Grand Cooperation via Cost Adjustment: An Inverse Optimization Approach"](https://doi.org/10.1287/ijoc.2021.0193). INFORMS Journal On Computing, 2023.
+Lindong Liu, Xiangtong Qi, Zhou Xu. ["Stabilizing Grand Cooperation via Cost Adjustment: An Inverse Optimization Approach"](https://doi.org/10.1287/ijoc.2022.0268). INFORMS Journal On Computing, 2023.
 
 ## Cite
 To cite this code, please cite the paper using its DOI and the code itself, using the following DOI.\
-DOI:10.1287/ijoc.2021.0193.cd
+DOI:10.1287/ijoc.2022.0268.cd
 
 Below is the BibTex for citing this version of the code.
 ~~~
@@ -27,7 +27,7 @@ Below is the BibTex for citing this version of the code.
   author={Lindong Liu and Xiangtong Qi and Zhou Xu},
   publisher={{INFORMS Journal on Computing}},
   year={2023},
-  doi={10.1287/ijoc.2021.0193.cd},
-  note={available for download at https://github.com/INFORMSJoC/2021.0193}
+  doi={10.1287/ijoc.2022.0268.cd},
+  note={available for download at https://github.com/INFORMSJoC/2022.0268}
 }
 ~~~
