@@ -1,0 +1,21 @@
+
+The naming format for the result files is as follows: WM_Result_Table2_n, where n denotes the instance's scale.
+
+The information for the result files consists of a total of 100 lines, containing the following information:
+
+	index DV DN Time
+
+where
+
+	index: The index of the instance, corresponding to the 100 randomly generated instances.
+  
+	DV: The minimum total deviation effort as a percentage of the absolute norm of the original cost vector c.
+
+	DN: The number of adjusted cost elements as a percentage of the total number of cost elements in c.
+
+	Time: Computational time in seconds.
+
+
+
+
+

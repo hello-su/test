@@ -1,0 +1,10 @@
+
+The naming format for the reslut files is as follows: WM_ResultRange_n_index, where n denotes the instance's scale.
+
+The information in the data files is structured as follows: edgefinal, xinverse, totaladjcost.
+
+The first n*(n-1)/2 lines contain the following information: the starting point of the edge, the ending point of the edge, the adjusted weight of the edge, and whether the matching of this edge changes.
+
+The last line represent the value of totaladjcost.
+
+
