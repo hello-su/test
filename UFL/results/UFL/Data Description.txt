@@ -1,0 +1,18 @@
+
+The naming format for the reslut files is as follows: UFL_Result_m_index, where m = n denotes the instance's scale.
+
+The information in the result files is structured as follows: cfinal, uinvrse, ffinal, vinvrse, totaladjcost.
+
+The first m lines contain the values of cfinal, with each line having n columns.
+
+The next m lines contain the values of uinvrse, with each line having n columns.
+
+The next line contains the values of ffinal, with m columns.
+
+The next line contains the values of vinvrse, with m columns.
+
+The last line represent the values of totaladjcost, which is the total adjustment cost of the instance.
+
+
+
+
