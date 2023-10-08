@@ -11,7 +11,7 @@ function [ output_args ] = StartFunctionWM(n,option)
 % DV in table 2
 % T in table 2
 %% weighted maching game
-for kk=7:100
+for kk=1:100
 
 
     if option==1
