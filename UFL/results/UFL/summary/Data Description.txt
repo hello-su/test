@@ -1,0 +1,45 @@
+
+The naming format for the result files is as follows: UFL_Result_Table4_m, where m = n denotes the instance's scale.
+
+The information for the result files consists of a total of 100 lines, containing the following information:
+
+	index DV DN Time
+
+where
+
+	index: The index of the instance, corresponding to the 100 randomly generated instances.
+  
+	DV: The minimum total deviation effort as a percentage of the absolute norm of the original cost vector c.
+
+	DN: The number of adjusted cost elements as a percentage of the total number of cost elements in c.
+
+	Time: Computational time in seconds.
+
+
+
+
+
+Table4.txt displays statistical metrics for the results of 100 instances across four different scales, which is the result presented in Table 4 in the paper.
+
+The information for the result file consists of a total of 4 lines, containing the following information:
+
+	U avg_DV max_DV min_DV avg_DN max_DV min_DV Time
+
+where
+
+	U: The number of instances that are unbalanced games, out of the 100 random instances.
+  
+	avg_DV: The average value of DV of the 100 random instances.
+
+	max_DV: The maximum value of DV of the 100 random instances.
+
+	min_DV: The minimum value of DV of the 100 random instances.
+
+	avg_DN: The average value of DN of the 100 random instances.
+
+	max_DN: The maximum value of DN of the 100 random instances.
+
+	min_DN: The minimum value of DN of the 100 random instances.
+
+	Time: The average computational time of the 100 random instances.
+
